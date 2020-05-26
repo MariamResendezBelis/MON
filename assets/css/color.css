@@ -1,0 +1,46 @@
+a:hover,
+.high-theme-clr,
+.service-box h4 a:hover,
+.about-list li:hover .about_box_content a ,
+.owl-theme .owl-nav .owl-prev, 
+.owl-theme .owl-nav .owl-next,
+.why_choose_us h4 span,
+.mapael .mapTooltip,
+.twt-feed span,
+.bottom-footer p span,
+.theme-color,
+.timer ul li span.normal,
+.wa-theme-color,
+.client-content span,
+.widget.information ul li a:hover,
+.navbar-default .navbar-nav > .open > a.close-search:hover,
+.text-color {
+	color:#d37ee9;
+}
+.social-box,
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > .open > a:hover, .nav .open > a:focus, .nav .open > a:hover, .dropdown-menu > li > a:focus, .dropdown-menu > li > a:hover, ul.nav.navbar-nav li a:hover,
+.itg-button.active,
+.itg-button:hover,
+.service-box:hover .service-icon,
+.social-icon li:hover,
+.owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span,
+.owl-theme .owl-nav .owl-prev:hover,
+.owl-theme .owl-nav .owl-next:hover,
+.cssload-loading i,
+.why_choose_us ul li:before,
+.pricing-detail:hover,
+.popup,
+.portfolio_menu ul li:hover,
+.template-form input.itg-button:hover,
+ul.social-icon-footer li:hover,
+.preloader
+{
+	background-color:#a61aec;
+}
+.itg-button:hover,
+.owl-theme .owl-dots .owl-dot span,
+.clients .client-img,
+.main_slider.owl-theme .owl-dots .owl-dot span:hover,
+.portfolio_menu ul li:hover {
+	border-color:#3f043c;
+}
